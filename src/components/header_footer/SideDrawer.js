@@ -23,7 +23,7 @@ const SideDrawer = (props) => {
             open={props.open}
             onClose={()=> props.onClose(false)}
         >
-            <List component="nav">
+            <List component="nav" className="nav">
                 <ListItem button onClick={()=> scrollToElement('featured')}>
                     Event starts in
                 </ListItem>
