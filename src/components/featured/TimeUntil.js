@@ -42,7 +42,7 @@ class TimeUntil extends Component {
                 <div className="countdown_wrapper">
                     <div className="countdown_top">
                         Event starts in
-                </div>
+                    </div>
                     <div className="countdown_bottom">
                         <div className="countdown_item">
                             <div className="countdown_time">
